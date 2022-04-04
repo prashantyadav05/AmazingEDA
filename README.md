@@ -1,2 +1,3 @@
-# AmazingEDA
-How to quickly get a handle on almost any tabular dataset.
+# Amazing Exploratory Data Analysis
+# What does this repository contain?
+Here, I have tried to implement multiple useful EDA routines.
